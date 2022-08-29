@@ -28,4 +28,21 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+.banner-interno
+  height: 114px
+.banner-interno__fondo
+  background-image: url(assets/curso/fondo_tema.png) !important
+.banner-principal .tarjeta
+  background-position: inherit !important
+.titulo-principal__numero
+  background-color: #A3314F !important
+.titulo-principal__numero span
+  color: #fff !important
+.curso-main-container > .container
+  overflow-x: clip !important
+.titulo-segundo:after
+  border-left-color: #A3314F !important
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
+  color: #12263F !important
+</style>
