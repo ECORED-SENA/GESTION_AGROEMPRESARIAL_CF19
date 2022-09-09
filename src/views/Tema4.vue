@@ -61,7 +61,7 @@
                 p No existe un formato único para el control de registro RESPEL, por tal razón, los formatos serán formulados por el finquero y deben contener la información básica necesaria.
             .row.mt-3(numero="3" titulo="Categorías y plazos")
               .col-lg-12(style="place-self:center")
-                p El diligenciamiento del Registro de Generadores de Residuos o Desechos Peligrosos debe realizarse teniendo en cuenta las categorías y plazos establecidos por la normativa: Artículo 28, Decreto 4741 del 30 de diciembre de 2005
+                p El diligenciamiento del Registro de Generadores de Residuos o Desechos Peligrosos debe realizarse teniendo en cuenta las categorías y plazos establecidos por la normativa: Artículo 28, Decreto 4741 del 30 de diciembre de 2005.
               .row.mt-4.p-3.mb-4(style="background-color:#CED371;border-radius:20px;margin:0;")
                 .col-lg-8.mb-4.mb-lg-0(style="place-self:center")
                   p.mb-0 Categorías y plazos
@@ -94,7 +94,7 @@
     .titulo-segundo
       h2#t_4_2 4.2 Sistemas de Información y reporte 
 
-    p(data-aos="fade-up") La implementación de un software agropecuario facilitará el tratamiento de la información, ya que es una herramienta que permite al finquero manejar su producción de forma organizada. Un software, entre otros aspectos, facilita la medición y el control, factores que van ligados a la producción y a la administración, como los tiempos, insumos, la humedad, los gastos, el personal, entre otros.
+    p(data-aos="fade-up") La implementación de un #[em software] agropecuario facilitará el tratamiento de la información, ya que es una herramienta que permite al finquero manejar su producción de forma organizada. Un #[em software], entre otros aspectos, facilita la medición y el control, factores que van ligados a la producción y a la administración, como los tiempos, insumos, la humedad, los gastos, el personal, entre otros.
 
     .row.mt-5
       .col-md-6.mb-4.mb-md-0(style="place-self:center")
@@ -102,16 +102,16 @@
           img(src="@/assets/curso/tema4/10.png" data-aos="fade-right")
       .col-md-6(style="place-self:center")
         .p-4(style="background-color:#CED371;")
-          p.mb-0(data-aos="fade-up")  En Colombia, el software más usado, con respecto a cada línea de producción y afines al sector agropecuario, lo encabeza Ganadero: el cual permite llevar un inventario exacto de la ganadería. Registra: natalidad y mortalidad, preñeces, días de celo, pesos y fechas de matadero, inseminaciones, vacunación, litros de leche.
-        p.mt-4(data-aos="fade-up") Entérese de cuáles son los softwares y aplicaciones agrícolas con mayor acogida y uso dentro de los agropecuarios colombianos: 
+          p.mb-0(data-aos="fade-up")  En Colombia, el #[em software] más usado, con respecto a cada línea de producción y afines al sector agropecuario, lo encabeza Ganadero: el cual permite llevar un inventario exacto de la ganadería. Registra: natalidad y mortalidad, preñeces, días de celo, pesos y fechas de matadero, inseminaciones, vacunación, litros de leche.
+        p.mt-4(data-aos="fade-up") Entérese de cuáles son los #[em softwares] y aplicaciones agrícolas con mayor acogida y uso dentro de los agropecuarios colombianos: 
         .col-md-10.m-auto.mt-4
           p(data-aos="fade-up") #[strong Tabla 1] #[br] #[em Software y aplicaciones agrícolas]
           .tabla-a.color-acento-botones.mt-4 
             table(width="100%" style="max-width:100%;min-width:100%;")
               thead(style="border:0;")
                 tr(style="background-color:#A3314F;")
-                  th.p-4(style="font-size:18px;color:white;border:0;border-right:1px #F6F6F6 solid;") Software
-                  th.p-4(style="font-size:18px;color:white;border:0") Apps
+                  th.p-4(style="font-size:18px;color:white;border:0;border-right:1px #F6F6F6 solid;") #[em Software]
+                  th.p-4(style="font-size:18px;color:white;border:0") #[em Apps]
               tbody
                 tr(style="background-color:#F6F6F6;")
                   td.text-center(style="border:0;border-right:1px #AFAFAF solid;") Sismasgro
@@ -144,7 +144,7 @@
                   td.text-center(style="border:0;border-right:1px #AFAFAF solid;") Agrocontrol
                   td.text-center(style="border:0;") Appgro
 
-    p.mt-5(data-aos="fade-up") En relación con los sistemas de información y reporte (software o aplicaciones), tenga en cuenta, entre otros, los siguientes aspectos:
+    p.mt-5(data-aos="fade-up") En relación con los sistemas de información y reporte (#[em software] o aplicaciones), tenga en cuenta, entre otros, los siguientes aspectos:
 
     .p-4.mt-5(style="background-color:#FAFBF0;")
       LineaTiempoC.color-acento-contenido.col-md-10.m-auto(text-small)
@@ -153,7 +153,7 @@
             figure
               img(src='@/assets/curso/tema4/11.png')
           .col-md-4(style="place-self:center")
-            p La información obtenida de cada punto de producción deberá ser registrada en la base de datos del software elegido para acompañar el proceso productivo.
+            p La información obtenida de cada punto de producción deberá ser registrada en la base de datos del #[em software] elegido para acompañar el proceso productivo.
         .row(titulo="Actualización <br> permanente")
           .col-md-8.mb-4.mb-md-0(style="place-self:center")
             figure
@@ -171,7 +171,7 @@
             figure
               img(src='@/assets/curso/tema4/14.png')
           .col-md-4(style="place-self:center")
-            p Los diagramas y funcionalidades de cada software o aplicación notificarán estados de alerta que se presenten, para su corrección temprana. Por tal motivo, se requiere buen manejo y conocimiento del mecanismo y uso de los mismos.
+            p Los diagramas y funcionalidades de cada #[em software] o aplicación notificarán estados de alerta que se presenten, para su corrección temprana. Por tal motivo, se requiere buen manejo y conocimiento del mecanismo y uso de los mismos.
       
 
 

@@ -78,14 +78,14 @@
           img(src='@/assets/curso/tema1/5.png')
           .tarjeta.color-primario(style="background-color:#E4CDD3")
             .p-4
-              p(data-aos="fade-up") #[strong Norma:] Resolución 0316 de 2018 emitida por el Ministerio de Ambiente y Desarrollo Sostenible 1 de marzo de 2018.
+              p(data-aos="fade-up") #[strong Norma:] resolución 0316 de 2018 emitida por el Ministerio de Ambiente y Desarrollo Sostenible 1 de marzo de 2018.
               p.mt-4(data-aos="fade-up") #[strong Concepto:] por la cual se establecen disposiciones relacionadas con la gestión de aceites de cocina usados y se dictan otras disposiciones.
       .col-md-3.col-lg-3.mb-5.mb-md-0
         .tarjeta-avatar
           img(src='@/assets/curso/tema1/5.png')
           .tarjeta.color-primario(style="background-color:#E4CDD3")
             .p-4
-              p(data-aos="fade-up") #[strong Norma:] Resolución No. 1096 de 2000 emitida por el Ministerio de Desarrollo Económico 17 de noviembre de 2000.
+              p(data-aos="fade-up") #[strong Norma:] resolución No. 1096 de 2000 emitida por el Ministerio de Desarrollo Económico 17 de noviembre de 2000.
               p.mt-4(data-aos="fade-up") #[strong Concepto:] por la cual se adopta el Reglamento técnico para el sector de agua potable y saneamiento básico RAS.
       .col-md-3.col-lg-3.mb-5.mb-md-0
         .tarjeta-avatar

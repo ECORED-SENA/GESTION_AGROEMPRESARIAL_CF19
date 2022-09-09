@@ -80,27 +80,27 @@
       .tarjeta-avatar
         img(src='@/assets/curso/tema2/7.png')
         .tarjeta.color-acento-botones.p-4(style="background-color:#F3F4DB;min-height:450px;")
-          p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] Resolución  0683 de 2012 del Ministerio de Salud y Protección Social del 28 de marzo de 2012.
+          p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] resolución  0683 de 2012 del Ministerio de Salud y Protección Social del 28 de marzo de 2012.
           p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Concepto:] por medio de la cual se expide el Reglamento técnico sobre los requisitos sanitarios que deben cumplir los materiales, objetos, envases y equipamientos destinados a entrar en contacto con alimentos y bebidas para consumo humano.
       .tarjeta-avatar
         img(src='@/assets/curso/tema2/7.png')
         .tarjeta.color-acento-botones.p-4(style="background-color:#F3F4DB;min-height:450px;")
-          p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] Resolución 4143 de 2012 del Ministerio de Salud y Protección Social del 07 de diciembre de 2012.
+          p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] resolución 4143 de 2012 del Ministerio de Salud y Protección Social del 07 de diciembre de 2012.
           p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Concepto:] por el cual se establece el reglamento técnico sobre los requisitos sanitarios que deben cumplir los materiales, objetos, envases y equipamientos plásticos y elastometricos y sus aditivos, destinados a entrar en contacto con alimentos y bebidas para consumo humano en el territorio nacional.
       .tarjeta-avatar
         img(src='@/assets/curso/tema2/7.png')
         .tarjeta.color-acento-botones.p-4(style="background-color:#F3F4DB;min-height:450px;")
-          p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] Resolución 1407 de 2019 del Ministerio de Ambiente y Desarrollo Sostenible del 26 de julio de 2018.
+          p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] resolución 1407 de 2019 del Ministerio de Ambiente y Desarrollo Sostenible del 26 de julio de 2018.
           p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Concepto:] por la cual se reglamenta la gestión ambiental de los residuos de envases y empaques de papel, cartón, plástico, vidrio, metal y se toman otras determinaciones.
       .tarjeta-avatar
         img(src='@/assets/curso/tema2/7.png')
         .tarjeta.color-acento-botones.p-4(style="background-color:#F3F4DB;min-height:450px;")
-          p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] Resolución 1342 de 2020 del Ministerio de Ambiente y Desarrollo Sostenible del 24 de diciembre de 2020.
+          p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] resolución 1342 de 2020 del Ministerio de Ambiente y Desarrollo Sostenible del 24 de diciembre de 2020.
           p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Concepto:] por la cual se modifica la Resolución 1407 de 2018 y se toman otras disposiciones.
       .tarjeta-avatar
         img(src='@/assets/curso/tema2/7.png')
         .tarjeta.color-acento-botones.p-4(style="background-color:#F3F4DB;min-height:450px;")
-          p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] Resolución 1675 de 2013 del Ministerio de Ambiente y Desarrollo Sostenible del 2 de diciembre de 2013.
+          p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] resolución 1675 de 2013 del Ministerio de Ambiente y Desarrollo Sostenible del 2 de diciembre de 2013.
           p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Concepto:] por la cual se establecen los elementos de los Planes de gestión de devolución de productos postconsumo de plaguicidas.
 
 

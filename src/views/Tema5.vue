@@ -49,7 +49,7 @@
             tr(style="background-color:#FFFFFF;")
               td.p-4.text-center(style="border:0;border-right:1px #AFAFAF solid;font-weight:bold;") Microorganismos #[br] vivos
               td.p-4.text-center(style="border:0;border-right:1px #AFAFAF solid;") Son virus, bacterias y hongos utilizados en el control biológico de plagas.
-              td.p-4.text-center(style="border:0;") Trichoderma harzianum #[br] Paecilomyces lilacinus #[br] Metarhizium anisopliae #[br] Beauveria bassiana
+              td.p-4.text-center(style="border:0;") #[em Trichoderma harzianum] #[br] #[em Paecilomyces lilacinus] #[br] #[em Metarhizium anisopliae] #[br] #[em Beauveria bassiana]
 
     p.mt-5(data-aos="fade-up") Después de tener claro el tipo de sustancia que se utiliza y sus derivados, se debe clasificar el tipo de intoxicación de acuerdo con la exposición, tipo u origen:
 
