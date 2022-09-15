@@ -192,12 +192,6 @@ export default {
   referencias: [
     {
       referencia:
-        'Axioma B2B Marketing. (2021). Colombia unifica el código de colores para la separación de residuos. El Empaque + Conversión.',
-      link:
-        'https://www.elempaque.com/temas/Colombia-estrena-el-codigo-unificado-de-colores-para-la-separacion-de-residuos-en-la-fuente+136549',
-    },
-    {
-      referencia:
         'Centro de Información de Sustancias Químicas, Emergencias y Medio Ambiente. (2010). Atención de derrames. ARL Sura.',
       link: 'https://www.arlsura.com/files/atencion_derrames.pdf',
     },
