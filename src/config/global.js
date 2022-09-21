@@ -106,18 +106,6 @@ export default {
             titulo: 'Clasificación y disposición',
             hash: 't_3_2',
           },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Clasificación de los hilos',
-            hash: 't_3_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.4',
-            titulo: 'Clasificación de tejidos',
-            hash: 't_3_4',
-          },
         ],
       },
       {
