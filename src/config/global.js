@@ -326,33 +326,31 @@ export default {
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
+        cargo: 'Responsable del equipo de Diseño Instruccional',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
-        cargo: '',
+        nombre: 'Karly Cediel',
+        cargo: 'Contratista Experta Temática',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
-        cargo: '',
+        nombre: 'Fabián Leonardo Correa Díaz',
+        cargo: 'Diseñador Instruccional',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
       },
       {
-        nombre: '',
-        cargo: '',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        nombre: 'Silvia Milena Sequeda Cárdenas',
+        cargo: 'Asesora Metodológica',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
       },
       {
-        nombre: '',
-        cargo: '',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        nombre: 'Darío González',
+        cargo: 'Corrector de Estilo',
+        centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
       },
     ],
     desarrolloProducto: [
@@ -368,7 +366,7 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: '',
+        nombre: 'Diana Carolina Acevedo Barón',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
