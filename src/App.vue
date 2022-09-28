@@ -45,4 +45,9 @@ export default {
   border-left-color: #A3314F !important
 .banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
   color: #12263F !important
+.banner-principal-decorativo-1
+  top: 66% !important
+  right: 24% !important
+  -webkit-animation: float1 3.5s ease-in-out infinite alternate
+  animation: float1 3.5s ease-in-out infinite alternate
 </style>

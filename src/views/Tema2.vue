@@ -35,14 +35,14 @@
     p(data-aos="fade-up") Para realizar la devolución de estos elementos se debe tener en cuenta el contenido de los envases, ya que según su contenido se clasifican en dos grandes grupos:
 
     .row.mt-5
-      .col-md-6.mb-4.mb-md-0.p-0
+      .col-lg-6.mb-4.mb-lg-0.p-0
         figure.indicador__container.cont_desc_image__principal(style="position:relative;overflow:hidden;" @mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           img(src="@/assets/curso/tema2/3.png" data-aos="zoom-in-up")
           .p-4.text-center.cont_desc_image.d-flex.justify-content-center.align-items-start(style="background-color:#DFDFDF;")
             h4 Envases de uso industrial:
             p.mt-4(style="display:none;") Los cuales deben ser reunidos ya sean cajas, frascos plásticos o de vidrio, pastillas cartuchos, contenedores metálicos, bombas manuales o mecánicas en bolsas industriales resistentes a cualquier tipo de fuga. Estos elementos no deben ser destruidos sobre todo los que son metálicos presurizados, para estos elementos se deben destruir sus etiquetas para evitar cualquier tipo de falsificación. La entrega de estos elementos debe realizarse en sitio debidamente autorizados que garanticen su manejo integral.
-      .col-md-6.p-0
+      .col-lg-6.p-0
         figure.cont_desc_image__principal(style="position:relative;overflow:hidden;")
           img(src="@/assets/curso/tema2/4.png" data-aos="zoom-in-up")
           .p-4.text-center.cont_desc_image.d-flex.justify-content-center.align-items-start(style="background-color:#CED371;")
@@ -78,27 +78,27 @@
 
     SlyderF.mt-5(columnas="col-lg-4 col-xl-4")
       .tarjeta-avatar
-        img(src='@/assets/curso/tema2/7.png')
+        img(src='@/assets/curso/tema2/7.png' style="max-width:100px;")
         .tarjeta.color-acento-botones.p-4(style="background-color:#F3F4DB;min-height:450px;")
           p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] resolución  0683 de 2012 del Ministerio de Salud y Protección Social del 28 de marzo de 2012.
           p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Concepto:] por medio de la cual se expide el Reglamento técnico sobre los requisitos sanitarios que deben cumplir los materiales, objetos, envases y equipamientos destinados a entrar en contacto con alimentos y bebidas para consumo humano.
       .tarjeta-avatar
-        img(src='@/assets/curso/tema2/7.png')
+        img(src='@/assets/curso/tema2/7.png' style="max-width:100px;")
         .tarjeta.color-acento-botones.p-4(style="background-color:#F3F4DB;min-height:450px;")
           p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] resolución 4143 de 2012 del Ministerio de Salud y Protección Social del 07 de diciembre de 2012.
           p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Concepto:] por el cual se establece el reglamento técnico sobre los requisitos sanitarios que deben cumplir los materiales, objetos, envases y equipamientos plásticos y elastometricos y sus aditivos, destinados a entrar en contacto con alimentos y bebidas para consumo humano en el territorio nacional.
       .tarjeta-avatar
-        img(src='@/assets/curso/tema2/7.png')
+        img(src='@/assets/curso/tema2/7.png' style="max-width:100px;")
         .tarjeta.color-acento-botones.p-4(style="background-color:#F3F4DB;min-height:450px;")
           p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] resolución 1407 de 2019 del Ministerio de Ambiente y Desarrollo Sostenible del 26 de julio de 2018.
           p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Concepto:] por la cual se reglamenta la gestión ambiental de los residuos de envases y empaques de papel, cartón, plástico, vidrio, metal y se toman otras determinaciones.
       .tarjeta-avatar
-        img(src='@/assets/curso/tema2/7.png')
+        img(src='@/assets/curso/tema2/7.png' style="max-width:100px;")
         .tarjeta.color-acento-botones.p-4(style="background-color:#F3F4DB;min-height:450px;")
           p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] resolución 1342 de 2020 del Ministerio de Ambiente y Desarrollo Sostenible del 24 de diciembre de 2020.
           p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Concepto:] por la cual se modifica la Resolución 1407 de 2018 y se toman otras disposiciones.
       .tarjeta-avatar
-        img(src='@/assets/curso/tema2/7.png')
+        img(src='@/assets/curso/tema2/7.png' style="max-width:100px;")
         .tarjeta.color-acento-botones.p-4(style="background-color:#F3F4DB;min-height:450px;")
           p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] resolución 1675 de 2013 del Ministerio de Ambiente y Desarrollo Sostenible del 2 de diciembre de 2013.
           p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Concepto:] por la cual se establecen los elementos de los Planes de gestión de devolución de productos postconsumo de plaguicidas.

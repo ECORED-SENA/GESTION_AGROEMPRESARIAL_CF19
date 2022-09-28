@@ -22,19 +22,19 @@
     .row.mt-5
       .col-md-4.mb-4.mb-md-0
         .tarjeta-avatar
-          img(src='@/assets/curso/tema3/2.png')
+          img(src='@/assets/curso/tema3/2.png' style="max-width:100px;")
           .tarjeta.color-acento-botones.p-4.text-center(style="background-color:#F3F4DB;height:100%;")
             h4.mt-5(style="color:#12263F;" data-aos="fade-up") Residuos sólidos comunes: 
             p(style="color:#12263F;" data-aos="fade-up") este tipo de residuos son producidos por las actividades antrópicas y se clasifican como aprovechables, orgánicos y no aprovechables.
       .col-md-4.mb-4.mb-md-0
         .tarjeta-avatar
-          img(src='@/assets/curso/tema3/3.png')
+          img(src='@/assets/curso/tema3/3.png' style="max-width:100px;")
           .tarjeta.color-acento-botones.p-4.text-center(style="background-color:#F3F4DB;height:100%;")
             h4.mt-5(style="color:#12263F;" data-aos="fade-up") Residuos pecuarios: 
             p(style="color:#12263F;" data-aos="fade-up") son los residuos de origen orgánico que se producen por las actividades de producción (heces, orín, residuos de alimentos, etc.), los cuales son aptos para un proceso de transformación para producir abono orgánico.
       .col-md-4.mb-4.mb-md-0
         .tarjeta-avatar
-          img(src='@/assets/curso/tema3/4.png')
+          img(src='@/assets/curso/tema3/4.png' style="max-width:100px;")
           .tarjeta.color-acento-botones.p-4.text-center(style="background-color:#F3F4DB;height:100%;")
             h4.mt-5(style="color:#12263F;" data-aos="fade-up") Residuos peligrosos: 
             p(style="color:#12263F;" data-aos="fade-up") son los que están relacionados con el uso de plaguicidas y químicos en la industria pecuaria.

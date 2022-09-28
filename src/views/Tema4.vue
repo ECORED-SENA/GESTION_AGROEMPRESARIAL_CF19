@@ -15,14 +15,14 @@
     p.mt-5(data-aos="fade-up") Para los finqueros y pequeños productores, es primordial llevar un registro de la cantidad de residuos peligrosos que se generan en las actividades pecuarias y formular formatos que contengan la información básica del control que se realiza en su manejo y posterior entrega al gestor.
 
     .row.mt-5.col-md-10.m-auto
-      .col-md-6.mb-4.mb-md-0
+      .col-lg-6.mb-4.mb-lg-0
         figure.indicador__container.cont_desc_image__principal1(style="position:relative;overflow:hidden;" @mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           img(src="@/assets/curso/tema4/2.png" data-aos="zoom-in-up")
           .p-4.text-center.cont_desc_image1.d-flex.justify-content-center.align-items-start(style="background-color:#A3314F;")
             h4.text-white ¿Qué dice la norma?
             p.mt-4.text-white(style="display:none;") Mediante la Resolución 1362 del 2 de agosto de 2007, el Ministerio de Ambiente, Vivienda y Desarrollo Territorial (MAVDT) estableció los requisitos y procedimientos para el Registro de Generadores de Residuos o Desechos Peligrosos a que hacen referencia los artículos 27 y 28 del Decreto 4741 de 2005. (IDEAM).
-      .col-md-6
+      .col-lg-6
         figure.cont_desc_image__principal1(style="position:relative;overflow:hidden;")
           img(src="@/assets/curso/tema4/3.png" data-aos="zoom-in-up")
           .p-4.text-center.cont_desc_image1.d-flex.justify-content-center.align-items-start(style="background-color:#CED371;")
@@ -62,7 +62,7 @@
             .row.mt-3(numero="3" titulo="Categorías y plazos")
               .col-lg-12(style="place-self:center")
                 p El diligenciamiento del Registro de Generadores de Residuos o Desechos Peligrosos debe realizarse teniendo en cuenta las categorías y plazos establecidos por la normativa: Artículo 28, Decreto 4741 del 30 de diciembre de 2005.
-              .row.mt-4.p-3.mb-4(style="background-color:#CED371;border-radius:20px;margin:0;")
+              .row.mt-4.p-2.mb-4.col-md-11.m-auto(style="background-color:#CED371;border-radius:20px;")
                 .col-lg-8.mb-4.mb-lg-0(style="place-self:center")
                   p.mb-0 Categorías y plazos
                 .col-lg-4(style="place-self:center")
@@ -72,7 +72,7 @@
             .row.mt-3(numero="4" titulo="Solicitud de inscripción")
               .col-lg-12(style="place-self:center")
                 p La autoridad ambiental frente a la cual se adelante el proceso de inscripción en el registro de generadores de residuos o desechos peligrosos tiene un plazo máximo de quince días hábiles para responder la solicitud.
-              .row.mt-4.p-3.mb-4(style="background-color:#CED371;border-radius:20px;margin:0;")
+              .row.mt-4.p-2.mb-4.col-md-11.m-auto(style="background-color:#CED371;border-radius:20px;")
                 .col-lg-8.mb-4.mb-lg-0(style="place-self:center")
                   p.mb-0 Solicitud de inscripción
                 .col-lg-4(style="place-self:center")
