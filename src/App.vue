@@ -50,4 +50,9 @@ export default {
   right: 24% !important
   -webkit-animation: float1 3.5s ease-in-out infinite alternate
   animation: float1 3.5s ease-in-out infinite alternate
+.banner-principal-decorativo-2
+  top: 6% !important
+  right: 0% !important
+  -webkit-animation: float1 3.5s ease-in-out infinite alternate
+  animation: float1 3.5s ease-in-out infinite alternate
 </style>

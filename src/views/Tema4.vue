@@ -63,9 +63,9 @@
               .col-lg-12(style="place-self:center")
                 p El diligenciamiento del Registro de Generadores de Residuos o Desechos Peligrosos debe realizarse teniendo en cuenta las categorías y plazos establecidos por la normativa: Artículo 28, Decreto 4741 del 30 de diciembre de 2005.
               .row.mt-4.p-2.mb-4.col-md-11.m-auto(style="background-color:#CED371;border-radius:20px;")
-                .col-lg-8.mb-4.mb-lg-0(style="place-self:center")
+                .col-lg-7.mb-4.mb-lg-0(style="place-self:center")
                   p.mb-0 Categorías y plazos
-                .col-lg-4(style="place-self:center")
+                .col-lg-5(style="place-self:center")
                   a.boton.color-acento-contenido(:href="obtenerLink('downloads/categorias_y_plazos.pdf')" target="_blank" type="application/pdf" style="background-color:#FFCD0D;")
                     span(style="color:#471E89;") Ver imagen
                     i.fas.fa-file(style="color:#471E89;")
@@ -73,9 +73,9 @@
               .col-lg-12(style="place-self:center")
                 p La autoridad ambiental frente a la cual se adelante el proceso de inscripción en el registro de generadores de residuos o desechos peligrosos tiene un plazo máximo de quince días hábiles para responder la solicitud.
               .row.mt-4.p-2.mb-4.col-md-11.m-auto(style="background-color:#CED371;border-radius:20px;")
-                .col-lg-8.mb-4.mb-lg-0(style="place-self:center")
+                .col-lg-7.mb-4.mb-lg-0(style="place-self:center")
                   p.mb-0 Solicitud de inscripción
-                .col-lg-4(style="place-self:center")
+                .col-lg-5(style="place-self:center")
                   a.boton.color-acento-contenido(:href="obtenerLink('downloads/solicitud_de_inscripcion.pdf')" target="_blank" type="application/pdf" style="background-color:#FFCD0D;")
                     span(style="color:#471E89;") Ver imagen
                     i.fas.fa-file(style="color:#471E89;")

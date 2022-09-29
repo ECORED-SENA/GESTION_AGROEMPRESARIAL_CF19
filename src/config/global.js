@@ -11,6 +11,10 @@ export default {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
         imagen: require('@/assets/curso/banner-principal-decorativo-1.png'),
       },
+      {
+        clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/banner-principal-decorativo-2.png'),
+      },
     ],
   },
   menuPrincipal: {
