@@ -54,7 +54,16 @@
 
     p.mt-5(data-aos="fade-up") Un residuo o desecho peligroso es aquel que, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables, infecciosas o radiactivas, puede causar algún riesgo o daño para la salud humana y el ambiente cuando es inadecuadamente manejado. Los envases que los contienen también son considerados residuos peligrosos (Decreto 4741 de 2015).
 
-    p.mt-4(data-aos="fade-up") Para una mejor comprensión del manejo de residuos peligrosos se recomienda ver el Decreto 4741 de 2015, ubicado en la sección del material complementario. 
+    .row.mt-5.p-4.col-md-10.m-auto(style="background-color:#F4F6DD;border-radius:20px;")
+      .col-md-2.mb-3.mb-md-0(style="place-self:center")
+        figure.text-center
+          img(src="@/assets/curso/tema5/3.png" data-aos="fade-left" style="max-width:50px;display:inline;")
+      .col-md-7.mb-3.mb-md-0(style="place-self:center")
+        p.mb-0(data-aos="fade-up") Para una mejor comprensión del manejo de residuos peligrosos se recomienda ver el #[strong Decreto 4741 de 2015].
+      .col-md-3.text-center(style="place-self:center")
+        a.boton.color-acento-contenido(href="http://www.ideam.gov.co/documents/51310/526371/Decreto+4741+2005+PREVENCION+Y+MANEJO+DE+REIDUOS+PELIGROSOS+GENERADOS+EN+GESTION+INTEGRAL.pdf/491df435-061e-4d27-b40f-c8b3afe25705" target="_blank" style="background-color:#FFCD0D;")
+          span(style="color:#471E89;") Ver
+          i.fas.fa-file(style="color:#471E89;")
 
     .row.mt-5
       .col-md-6.mb-4.mb-md-0(style="place-self:center;")

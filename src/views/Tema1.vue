@@ -92,7 +92,7 @@
           img(src='@/assets/curso/tema1/5.png' style="max-width:100px;")
           .tarjeta.color-primario(style="background-color:#E4CDD3")
             .p-4
-              p(data-aos="fade-up") #[strong Norma:] Norma técnica colombiana NTC5167 de 2011 por Icontec. 
+              p(data-aos="fade-up") #[strong Norma:] Norma Técnica Colombiana NTC5167 de 2011 por Icontec. 
               p.mt-4(data-aos="fade-up") #[strong Concepto:] productos para la industria agrícola. Productos orgánicos usados como abonos o fertilizantes y enmiendas o acondicionadores del suelo.
 
 
