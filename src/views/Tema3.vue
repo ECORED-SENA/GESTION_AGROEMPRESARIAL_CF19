@@ -17,7 +17,7 @@
     .titulo-segundo
       h2#t_3_1 3.1 Tipos
 
-    p(data-aos="fade-up") En la industria pecuaria se producen tres tipos de residuos, la mayoría pueden ser aprovechados si se cuenta con un Plan de Gestión Integral de Residuos Sólidos PGIRS, en cual se dictamine los pasos a seguir para la separación en la fuente, aprovechamiento y posterior disposición final. Estos tipos de residuos son:
+    p(data-aos="fade-up") En la industria pecuaria se producen tres tipos de residuos, la mayoría pueden ser aprovechados si se cuenta con un Plan de Gestión Integral de Residuos Sólidos PGIRS, en cual se dictaminan los pasos a seguir para la separación en la fuente, aprovechamiento y posterior disposición final. Estos tipos de residuos son:
 
     .row.mt-5
       .col-md-4.mb-4.mb-md-0
@@ -63,7 +63,16 @@
       .col-md-6(style="place-self:center;")
         .p-4(style="background-color:#DFCFD3")
           p(data-aos="fade-up") #[strong El Gobierno Nacional a través del Ministerio de Ambiente y Desarrollo Sostenible ha expedido la normatividad necesaria para el impulso de programas de manejo integral de residuos peligrosos y para garantizar el postconsumo,] tras un proceso de transformación que los convierte en nuevas materia primas, para esto se busca que los residuos destinados al postconsumo sean separados de los residuos sólidos comunes u ordinarios y que sean manejados de manera que no se conviertan en un riesgo para la salud y el ambiente, para así ser reciclados o aprovechados por empresas que estén autorizadas para la manipulación de estos;  nada de esto se puede lograr si los consumidores no asumen comportamientos y hábitos de consumo saludable.
-        p.mt-4(data-aos="fade-up") Se solicita al aprendiz revisar el artículo de Javier Martínez (2005) sobre la guía para la gestión integral de residuos peligrosos, ubicado en la sección del material complementario.
+        .row.mt-5.p-4.col-md-10.m-auto(style="background-color:#F4F6DD;border-radius:20px;")
+          .col-md-2.mb-3.mb-md-0(style="place-self:center")
+            figure.text-center
+              img(src="@/assets/curso/tema5/3.png" data-aos="fade-left" style="max-width:50px;display:inline;")
+          .col-md-7.mb-3.mb-md-0(style="place-self:center")
+            p.mb-0(data-aos="fade-up") Se solicita al aprendiz revisar el artículo de Javier Martínez (2005) sobre #[strong la guía para la gestión integral de residuos peligrosos].
+          .col-md-3.text-center(style="place-self:center")
+            a.boton.color-acento-contenido(href="https://www.cempre.org.uy/docs/biblioteca/guia_para_la_gestion_integral_residuos/gestion_respel01_fundamentos.pdf" target="_blank" style="background-color:#FFCD0D;")
+              span(style="color:#471E89;") Ver
+              i.fas.fa-file(style="color:#471E89;")
 
 
 

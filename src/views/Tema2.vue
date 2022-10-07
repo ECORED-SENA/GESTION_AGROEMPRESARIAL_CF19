@@ -20,7 +20,7 @@
     .row
       .col-md-6.mb-4.mb-md-0
         .p-5.d-flex.align-items-center(style="background-color:#E1CED3;height:100%;")
-          p(data-aos="fade-up") #[strong Los planes de manejo de envases, empaques y embalajes son el punto de partida para la implementación de acciones que permitan proteger al medio ambiente] y minimizar los riesgos de contaminación e intoxicación de los operarios encargados de su manipulación, con el objetivo de sean aprovechados y devueltos a un gestor que se encargue de devolverlos a la cadena productiva.
+          p(data-aos="fade-up") #[strong Los planes de manejo de envases, empaques y embalajes son el punto de partida para la implementación de acciones que permitan proteger al medio ambiente] y minimizar los riesgos de contaminación e intoxicación de los operarios encargados de su manipulación, con el objetivo que sean aprovechados y devueltos a un gestor que se encargue de devolverlos a la cadena productiva.
       .col-md-6
         figure
           img(src="@/assets/curso/tema2/2.png" data-aos="fade-left")
@@ -41,7 +41,7 @@
           img(src="@/assets/curso/tema2/3.png" data-aos="zoom-in-up")
           .p-4.text-center.cont_desc_image.d-flex.justify-content-center.align-items-start(style="background-color:#DFDFDF;")
             h4 Envases de uso industrial:
-            p.mt-4(style="display:none;") Los cuales deben ser reunidos ya sean cajas, frascos plásticos o de vidrio, pastillas cartuchos, contenedores metálicos, bombas manuales o mecánicas en bolsas industriales resistentes a cualquier tipo de fuga. Estos elementos no deben ser destruidos sobre todo los que son metálicos presurizados, para estos elementos se deben destruir sus etiquetas para evitar cualquier tipo de falsificación. La entrega de estos elementos debe realizarse en sitio debidamente autorizados que garanticen su manejo integral.
+            p.mt-4(style="display:none;") Los cuales deben ser reunidos ya sean cajas, frascos plásticos o de vidrio, pastillas, cartuchos, contenedores metálicos, bombas manuales o mecánicas en bolsas industriales resistentes a cualquier tipo de fuga. Estos elementos no deben ser destruidos sobre todo los que son metálicos presurizados, para estos elementos se deben destruir sus etiquetas para evitar cualquier tipo de falsificación. La entrega de estos elementos debe realizarse en sitio debidamente autorizados que garanticen su manejo integral.
       .col-lg-6.p-0
         figure.cont_desc_image__principal(style="position:relative;overflow:hidden;")
           img(src="@/assets/curso/tema2/4.png" data-aos="zoom-in-up")
@@ -64,7 +64,18 @@
     .titulo-segundo
       h2#t_2_3 2.3. Interpretación fichas técnicas
 
-    p(data-aos="fade-up") #[strong Las fichas técnicas de los plaguicidas contienen toda la información necesaria acerca del contenido,] desde la información general hasta las recomendaciones de uso, manejo y disposición final. #[strong Es sumamente necesario leer esta información antes de realizar cualquier actividad con este contenido, y ante cualquier inquietud consultar con personal capacitado y/o comunicarse con el distribuidor de confianza,] para ver un ejemplo de una ficha técnica se solicita al aprendiz ver el documento Ejemplo cridor, ficha técnica de un plaguicida, ubicado en la sección del material complementario.
+    p(data-aos="fade-up") #[strong Las fichas técnicas de los plaguicidas contienen toda la información necesaria acerca del contenido,] desde la información general hasta las recomendaciones de uso, manejo y disposición final. #[strong Es sumamente necesario leer esta información antes de realizar cualquier actividad con este contenido, y ante cualquier inquietud consultar con personal capacitado y/o comunicarse con el distribuidor de confianza].
+
+    .row.mt-5.p-4.col-md-10.m-auto(style="background-color:#F4F6DD;border-radius:20px;")
+      .col-md-2.mb-3.mb-md-0(style="place-self:center")
+        figure.text-center
+          img(src="@/assets/curso/tema5/3.png" data-aos="fade-left" style="max-width:50px;display:inline;")
+      .col-md-7.mb-3.mb-md-0(style="place-self:center")
+        p.mb-0(data-aos="fade-up") Para ver un ejemplo de una ficha técnica se solicita al aprendiz ver el documento Ejemplo Cridor. (2020). Insecticida/concentrado emulsionable ficha técnica. Syngenta.
+      .col-md-3.text-center(style="place-self:center")
+        a.boton.color-acento-contenido(href="https://www.syngenta.com.mx/sites/g/files/zhg501/f/media/2021/03/05/5e020adc-d1c8-4e6c-88e2-4abfcec94a12_fichatecnica.pdf?token=1614989132" target="_blank" style="background-color:#FFCD0D;")
+          span(style="color:#471E89;") Ver
+          i.fas.fa-file(style="color:#471E89;")
 
     figure.mt-5.col-md-10.m-auto
       img(src="@/assets/curso/tema2/6.png" data-aos="zoom-in-up")
@@ -80,27 +91,27 @@
       .tarjeta-avatar(style="padding-top:45px;")
         img(src='@/assets/curso/tema2/7.png' style="max-width:100px;")
         .tarjeta.color-acento-botones.p-4(style="background-color:#F3F4DB;min-height:450px;")
-          p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] resolución  0683 de 2012 del Ministerio de Salud y Protección Social del 28 de marzo de 2012.
+          p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] Resolución  0683 de 2012 del Ministerio de Salud y Protección Social del 28 de marzo de 2012.
           p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Concepto:] por medio de la cual se expide el Reglamento técnico sobre los requisitos sanitarios que deben cumplir los materiales, objetos, envases y equipamientos destinados a entrar en contacto con alimentos y bebidas para consumo humano.
       .tarjeta-avatar(style="padding-top:45px;")
         img(src='@/assets/curso/tema2/7.png' style="max-width:100px;")
         .tarjeta.color-acento-botones.p-4(style="background-color:#F3F4DB;min-height:450px;")
-          p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] resolución 4143 de 2012 del Ministerio de Salud y Protección Social del 07 de diciembre de 2012.
+          p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] Resolución 4143 de 2012 del Ministerio de Salud y Protección Social del 07 de diciembre de 2012.
           p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Concepto:] por el cual se establece el reglamento técnico sobre los requisitos sanitarios que deben cumplir los materiales, objetos, envases y equipamientos plásticos y elastometricos y sus aditivos, destinados a entrar en contacto con alimentos y bebidas para consumo humano en el territorio nacional.
       .tarjeta-avatar(style="padding-top:45px;")
         img(src='@/assets/curso/tema2/7.png' style="max-width:100px;")
         .tarjeta.color-acento-botones.p-4(style="background-color:#F3F4DB;min-height:450px;")
-          p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] resolución 1407 de 2019 del Ministerio de Ambiente y Desarrollo Sostenible del 26 de julio de 2018.
+          p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] Resolución 1407 de 2019 del Ministerio de Ambiente y Desarrollo Sostenible del 26 de julio de 2018.
           p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Concepto:] por la cual se reglamenta la gestión ambiental de los residuos de envases y empaques de papel, cartón, plástico, vidrio, metal y se toman otras determinaciones.
       .tarjeta-avatar(style="padding-top:45px;")
         img(src='@/assets/curso/tema2/7.png' style="max-width:100px;")
         .tarjeta.color-acento-botones.p-4(style="background-color:#F3F4DB;min-height:450px;")
-          p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] resolución 1342 de 2020 del Ministerio de Ambiente y Desarrollo Sostenible del 24 de diciembre de 2020.
+          p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] Resolución 1342 de 2020 del Ministerio de Ambiente y Desarrollo Sostenible del 24 de diciembre de 2020.
           p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Concepto:] por la cual se modifica la Resolución 1407 de 2018 y se toman otras disposiciones.
       .tarjeta-avatar(style="padding-top:45px;")
         img(src='@/assets/curso/tema2/7.png' style="max-width:100px;")
         .tarjeta.color-acento-botones.p-4(style="background-color:#F3F4DB;min-height:450px;")
-          p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] resolución 1675 de 2013 del Ministerio de Ambiente y Desarrollo Sostenible del 2 de diciembre de 2013.
+          p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Norma:] Resolución 1675 de 2013 del Ministerio de Ambiente y Desarrollo Sostenible del 2 de diciembre de 2013.
           p.mt-4(style="color:#12263F;") #[strong(style="color:#12263F;") Concepto:] por la cual se establecen los elementos de los Planes de gestión de devolución de productos postconsumo de plaguicidas.
 
 

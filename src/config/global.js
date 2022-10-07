@@ -1,7 +1,6 @@
 export default {
   global: {
-    componenteFormativo:
-      'Manejo de residuos y registros en la bioseguridad de las producciones pecuarias ',
+    componenteFormativo: 'Control de residuos en la producción pecuaria',
     descripcionCurso:
       'Administrar correctamente residuos en la actividad pecuaria favorece, por ejemplo, reducir costos en fertilizantes y la preservación del medio ambiente, entre otros beneficios. Mediante este componente, el aprendiz estará en capacidad de hacer un adecuado control y seguimiento del manejo de residuos en la producción y atender la normativa vigente al respecto: almacenamiento, aprovechamiento, clasificación, registros y plan de contingencias.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.png'),

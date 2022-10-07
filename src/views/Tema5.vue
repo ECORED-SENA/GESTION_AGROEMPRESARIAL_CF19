@@ -73,7 +73,7 @@
               td.p-4.text-center(style="border:0;border-right:1px #AFAFAF solid;font-weight:bold;") Exposición #[br] aguda
               td.p-4.text-center(style="border:0;") Ocupacional: compromete a grupos de edad laboralmente activos durante las actividades de producción y uso. #[br] Accidental: exposición de manera no intencional e inesperada (incluye intoxicaciones alimentarias). #[br] Intencional: se produce con el propósito de causar daño; incluye intentos de suicidio y homicidio.
             tr(style="background-color:#F6F6F6;")
-              td.p-4.text-center(style="border:0;border-right:1px #AFAFAF solid;font-weight:bold;") Exposición #[br] aguda
+              td.p-4.text-center(style="border:0;border-right:1px #AFAFAF solid;font-weight:bold;") Exposición #[br] crónica
               td.p-4.text-center(style="border:0;") Ocupacional: por la exposición repetida a dosis bajas por periodos de tiempos largos con procesos productivos y uso (procesos de preparación de plaguicidas). #[br] Medioambiental: cuando la población en general está expuesta a plaguicidas por diferentes vías o rutas de exposición (agua, aire, alimentos contaminados).
 
     p.mt-5(data-aos="fade-up") De acuerdo con la clasificación de la intoxicación, se definen los criterios para la medición de la afectación en cada caso, esto se hace con la ayuda de pruebas de laboratorio, revisión médica o con los síntomas asociados. 

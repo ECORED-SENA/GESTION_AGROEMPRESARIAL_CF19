@@ -146,31 +146,31 @@
 
     p.mt-5(data-aos="fade-up") En relación con los sistemas de información y reporte (#[em software] o aplicaciones), tenga en cuenta, entre otros, los siguientes aspectos:
 
-    .p-4.mt-5(style="background-color:#FAFBF0;")
-      LineaTiempoC.color-acento-contenido.col-md-10.m-auto(text-small)
-        .row(titulo="Registro de <br> información")
-          .col-md-8.mb-4.mb-md-0(style="place-self:center")
+    .mt-5(style="background-color:#FAFBF0;")
+      LineaTiempoC.color-acento-contenido(text-small)
+        .row.p-4.ps-0(titulo="Registro de <br> información")
+          .col-lg-8.mb-4.mb-lg-0(style="place-self:center")
             figure
               img(src='@/assets/curso/tema4/11.png')
-          .col-md-4(style="place-self:center")
+          .col-lg-4(style="place-self:center")
             p La información obtenida de cada punto de producción deberá ser registrada en la base de datos del #[em software] elegido para acompañar el proceso productivo.
-        .row(titulo="Actualización <br> permanente")
-          .col-md-8.mb-4.mb-md-0(style="place-self:center")
+        .row.p-4.ps-0(titulo="Actualización <br> permanente")
+          .col-lg-8.mb-4.mb-lg-0(style="place-self:center")
             figure
               img(src='@/assets/curso/tema4/12.png')
-          .col-md-4(style="place-self:center")
+          .col-lg-4(style="place-self:center")
             p Es importante tener actualizados los datos obtenidos en campo, para que, de esta manera, la calidad en los procesos aumente y el seguimiento sea más sencillo.
-        .row(titulo="Control de la <br> producción")
-          .col-md-8.mb-4.mb-md-0(style="place-self:center")
+        .row.p-4.ps-0(titulo="Control de la <br> producción")
+          .col-lg-8.mb-4.mb-lg-0(style="place-self:center")
             figure
               img(src='@/assets/curso/tema4/13.png')
-          .col-md-4(style="place-self:center")
+          .col-lg-4(style="place-self:center")
             p El sistema de información se convertirá en una herramienta muy eficaz para el control de la producción, tiempos de reproducción, capacidad de carga, control de materia prima y alimentos, natalidad, estado del clima, entre otros.
-        .row(titulo="Manejo de los <br> sistemas")
-          .col-md-8.mb-4.mb-md-0(style="place-self:center")
+        .row.p-4.ps-0(titulo="Manejo de los <br> sistemas")
+          .col-lg-8.mb-4.mb-lg-0(style="place-self:center")
             figure
-              img(src='@/assets/curso/tema4/14.png')
-          .col-md-4(style="place-self:center")
+              img(src='@/assets/curso/tema4/14.svg')
+          .col-lg-4(style="place-self:center")
             p Los diagramas y funcionalidades de cada #[em software] o aplicación notificarán estados de alerta que se presenten, para su corrección temprana. Por tal motivo, se requiere buen manejo y conocimiento del mecanismo y uso de los mismos.
       
 
